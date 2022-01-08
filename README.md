@@ -10,3 +10,8 @@ Java solutions for [LeetCode](https://leetcode.com/) problems.
 | 2 | [Binary Search](https://leetcode.com/problems/binary-search/) |
 | 3 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) |
 
+# moderate folder
+
+| Sl. no. | Problem |
+| --- | --- |
+| 1 | [Rotate Array](https://leetcode.com/problems/rotate-array/) |
