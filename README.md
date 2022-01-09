@@ -10,6 +10,7 @@ Java solutions for [LeetCode](https://leetcode.com/) problems.
 | 2 | [Binary Search](https://leetcode.com/problems/binary-search/) |
 | 3 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) |
 | 4 | [Majority Element](https://leetcode.com/problems/majority-element/) |
+| 5 | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) |
 
 # moderate folder
 
