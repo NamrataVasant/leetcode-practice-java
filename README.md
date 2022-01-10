@@ -12,6 +12,8 @@ Java solutions for [LeetCode](https://leetcode.com/) problems.
 | 4 | [Majority Element](https://leetcode.com/problems/majority-element/) |
 | 5 | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) |
 | 6 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) |
+| 7 | [Reverse String](https://leetcode.com/problems/reverse-string/) |
+| 8 | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/) |
 
 # moderate folder
 
