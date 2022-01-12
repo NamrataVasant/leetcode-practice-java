@@ -14,6 +14,7 @@ Java solutions for [LeetCode](https://leetcode.com/) problems.
 | 6 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) |
 | 7 | [Reverse String](https://leetcode.com/problems/reverse-string/) |
 | 8 | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/) |
+| 9 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) |
 
 # moderate folder
 
