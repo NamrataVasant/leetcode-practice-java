@@ -16,6 +16,7 @@ Java solutions for [LeetCode](https://leetcode.com/) problems.
 | 8 | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/) |
 | 9 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) |
 | 10 | [Ugly Number](https://leetcode.com/problems/ugly-number/) |
+| 11 | [Height Checker](https://leetcode.com/problems/height-checker/) |
 
 # moderate folder
 
