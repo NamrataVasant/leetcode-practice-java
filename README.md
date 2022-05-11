@@ -18,7 +18,8 @@ Java solutions for [LeetCode](https://leetcode.com/) problems.
 | 10      | [Ugly Number](https://leetcode.com/problems/ugly-number/)                                               |
 | 11      | [Height Checker](https://leetcode.com/problems/height-checker/)                                         |
 | 12      | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/)                               |
-| 13      | [ConcatenationOfArray](https://leetcode.com/problems/concatenation-of-array/)                           |
+| 13      | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/)                         |
+| 14      | [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)                       |
 
 # moderate
 
