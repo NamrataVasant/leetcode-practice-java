@@ -20,10 +20,11 @@ Java solutions for [LeetCode](https://leetcode.com/) problems.
 | 12      | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/)                               |
 | 13      | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/)                         |
 | 14      | [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)                       |
-| 15      | [Unique_Email_Addresses](https://leetcode.com/problems/unique-email-addresses/)                         |
+| 15      | [Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/)                         |
 
 # moderate
 
-| Sl. no. | Problem                                                     |
-|---------|-------------------------------------------------------------|
-| 1       | [Rotate Array](https://leetcode.com/problems/rotate-array/) |
+| Sl. no. | Problem                                                                       |
+|---------|-------------------------------------------------------------------------------|
+| 1       | [Rotate Array](https://leetcode.com/problems/rotate-array/)                   |
+| 2       | [Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/) |
